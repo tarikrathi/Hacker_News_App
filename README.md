@@ -1,6 +1,8 @@
 # hacker_news
 
-A new Flutter project.
+I have developed a project called Hacker News App. In this app you can see the news about Artificial Intelligence and cybersecurity.
+I have also done a webscraping with the help of plugin available on pub.dev like (html,http).
+I have taken a refernce website "mit.com".
 
 ## Getting Started
 
